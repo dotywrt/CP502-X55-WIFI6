@@ -16,7 +16,7 @@ include $(INCLUDE_DIR)/package.mk
 
 define Build/Compile
 endef
-
+# dec 23 2025
 # Use ath10k-bdencoder from https://github.com/qca/qca-swiss-army-knife.git
 # to generate the board-* files here.
 #
